@@ -1,0 +1,52 @@
+{
+  "main": {
+    "title": "Create with confidence. Save time with Obliq",
+    "description": "A powerful platform to create and manage your projects with ease.",
+    "button": "Get Started →"
+  },
+  "features": [
+    {
+      "title": "Instant Creation",
+      "icon": "📊",
+      "description": "Create projects in seconds with our intuitive interface."
+    },
+    {
+      "title": "Built for Hacking",
+      "icon": "⚡",
+      "description": "Developer-friendly tools for power users."
+    },
+    {
+      "title": "Smart Automation",
+      "icon": "🔒",
+      "description": "Automate repetitive tasks and save hours."
+    },
+    {
+      "title": "Collaborative Teamwork",
+      "icon": "🔐",
+      "description": "Work together seamlessly with your team."
+    },
+    {
+      "title": "Flexible Customization",
+      "icon": "🎨",
+      "description": "Tailor every aspect to your needs."
+    },
+    {
+      "title": "Insights & Analytics",
+      "icon": "📈",
+      "description": "Track performance with real-time analytics."
+    }
+  ],
+  "services": [
+    {
+      "title": "For Startups",
+      "description": "Launch faster with our startup-friendly tools."
+    },
+    {
+      "title": "For Enterprises",
+      "description": "Scale your operations with enterprise-grade features."
+    }
+  ],
+  "integrations": ["A", "B", "C", "D", "E", "F", "G", "H"],
+  "team": [],
+  "testimonials": []
+}
